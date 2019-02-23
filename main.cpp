@@ -8,6 +8,6 @@ int main()
     int  number;
     cin >> number;
     cout << "Hello, " << number<<endl;
-    cout<<"hi "<<name;
+    cout<<"hi "<<name12356;
     return 0;
 }
