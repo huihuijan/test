@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    string name12356;
-    int  number;
-    cin >> number;
-    cout << "Hello, " << number<<endl;
-    cout<<"hi "<<name12356;
+    string ryanking;
+    int  rpuzz;
+    cin >> ryanking;
+    cout << "Hello, " << ryanking<<endl;
+    cout<<"hi "<<ryanking;
     return 0;
 }
