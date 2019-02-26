@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    string ryanking;
-    int  rpuzz;
-    cin >> ryanking;
-    cout << "Hello, " << ryanking<<endl;
-    cout<<"hi "<<ryanking;
+    cout<<"Hello world 218"<<endl;
     return 0;
 }
